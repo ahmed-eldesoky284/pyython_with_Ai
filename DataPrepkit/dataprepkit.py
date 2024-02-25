@@ -108,6 +108,7 @@ setup(
     author='Ahmed Eldesoky',
     author_email='ahmedeldesoky284@email.com',
     description='A package for data preparation tasks',
-    url='https://github.com/ahmed-eldesoky284/dataprepkit',
+    url='https://github.com/ahmed-eldesoky284/DataPrepkit/dataprepkit.py',
+  
    
 )
